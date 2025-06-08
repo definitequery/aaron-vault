@@ -1,0 +1,31 @@
+TODO:
+- Create a medicine bag of travel meds
+  - https://www.lesswrong.com/posts/LJw98jjiZDBKiZxKB/jetlag-nausea-and-diarrhea-are-largely-optional
+  - Ibuprofen for pain and fever
+  - Loperamide (Imodium) for diarrhea
+  - Caffeine for obvious
+  - Dimenhydrinate (Dramamine) for nausea
+  - Melatonin for sleep
+  - Electrolyte pills
+  - Allergy meds (Zyrtec, Claritin, Flonase)
+  - Cough drops
+- Try sleep mask
+- Get winter flu shot
+- Try stannous fluoride toothpaste
+- Try dumbbells
+- Try Queal shakes
+- Try Alacritty
+- Try Amazing Marvin
+- Try Xournal for PDF notetaking
+- Look into new backpacks
+- "Vanguard ETFs. One of the most surprising facts is that automatic index funds outperform “actively managed” (paying a finance person) ones, after you subtract their fees. Vanguard are the original and are among the lowest fees, about 0.15% of your return. I use a variant of the Simplicity Portfolio and rebalance every 6 months. You may be amused to hear that they are “communist”. Above, I said that only nicotine has any real risk - but these are a layer of abstraction over the stock market, so obviously be careful."
+- Emergency bank account?
+- Network-wide ad blocking?
+- Look into VPNs. NordVPN? How do VPNs work? What are the advantages and disadvantages?
+- Call Aetna and AuviQ about EpiPen.
+
+Project Idea
+- Contact book
+- Northwinds web application
+- Twitter clone
+- Pokedex web app

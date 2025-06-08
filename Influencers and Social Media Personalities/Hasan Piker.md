@@ -1,0 +1,1 @@
+I have no respect for Hasan Piker as a political thinker. His beliefs are purely ideologically motivated with no regard for fact.

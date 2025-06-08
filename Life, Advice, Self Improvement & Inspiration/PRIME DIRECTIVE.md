@@ -1,0 +1,12 @@
+From the Comments...
+> Wake up early in the day and go to bed before midnight. Most of the world runs on this schedule and life is just so much easier when you can just run to a store, pay a bill, see someone for lunch, whatever, without a massive inconvenience for you or changing your sleep pattern for a day. 
+> 
+> Eat healthy. Cook at home as much as you can. Eat as little store bought pre-made meals as you can. Eat natural things like fruits, veggies, and nuts for snacks. Drink enough water during the day. You will notice the difference in how you feel and function if you do not do this already.
+>
+> Take care of yourself and your personal hygiene. Shower daily. Brush your teeth at least 2 or 3 times a day. Keep your laundry clean and folded. Change your bed sheets at least weekly and towel and washcloth every couple days at the most. Keep your hair trimmed. Shave as often as needed. If you don't think you are worth taking care of people will notice, especially the wrong types of people that want to take advantage of someone. It is also much easier to feel good about yourself when you are clean, neat, and wearing clean clothes. MUCH easier. Make your life easier as many ways as you can in this regard.
+> 
+> Take care of your home. Do dishes daily. Dirty laundry in a hamper, clean put away as soon as it's folded. Sweep and mop at least once or twice a week. Do a deep clean of the house at least once a week. Garbage out as soon as it's full or starts to stink. Fridge stays clean and organized, no fuzzy science experiments in there. Stove top and counters wiped down daily. Open the drapes and blinds during the day. Open the windows as much as possible to get fresh air. You don't have to keep your home spotless, but keeping it tidy and under control helps to keep you in a better mood and better physical health.
+> 
+> Get some form of regular physical activity at minimum, preferably moving up to an exercise routine at least 2 or 3 days a week. Doesn't have to be a full on workout, just going for a walk can often be enough. Exercise releases endorphins which elevate your mood and sense of well being. Get outside in sunshine and let the sun hit your skin for at least 10-15 minutes as much as you can, sun hitting your skin produces vitamin D, low vitamin D levels can cause or contribute to depression.
+
+These are the foundations of life. They're not enough for a great life, but they're the solid base needed to build one. If you're not doing these, start.

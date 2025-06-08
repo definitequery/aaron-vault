@@ -1,0 +1,89 @@
+- Associated Press
+- The Atlantic
+- Harvard/MIT Business Review
+- Financial Times
+- New Yorker
+- Quillette
+- Quanta Magazine
+- Nautilus Magazine
+- Undark
+- War on the Rocks
+- Hacker News
+- openDemocracy
+- Works in Progress
+- The Center for Strategic Translation
+- Slime Mold Time Mold
+- NEJM
+- Greg Brockman
+- Nadia Asparouhova
+- The Lancet
+- Nature
+- Colin Percival
+- Google Project Zero
+- Giuseppe Paleologo
+- Arxiv
+- Kevin Simler
+- Stratechery
+- Hugging Face
+- Science Magazine
+- ACM
+- PubMed
+- Longform
+- NBER
+- Roots of Progress
+- bioRxiv
+- PsyArxiv
+- SSRN
+- Money Stuff
+- Marginal Revolution
+- Astral Codex Ten
+- Slate Star Codex archives
+- LessWrong
+- Crooked Timber
+- Devin Helton
+- Scott Aaronson
+- Devon Zuegel
+- Economist Writing Every Day
+- Everything Studies
+- Data Colada
+- Schneier on Security
+- Low Tech Magazine
+- Gwern
+- Andy Matuschak
+- Reason Without Restraint (HBD)
+- Patrick Collison
+- Patrick McKenzie
+- Razib Khan
+- Bet On It
+- Dan Wang
+- Ribbonfarm
+- In The Pipeline
+- Dynomight
+- Daniel Gross
+- Michael Nielsen
+- Richard Hanania
+- Distill
+- Nintil
+- Chris Olah
+- Peter Shirley
+- The Shape of Code
+- Coding Horror
+- Joel Spolsky
+- Paul Graham
+- Rohit Krishnan
+- Cremieux (HBD)
+- Wait But Why
+- Scholar's Stage
+- Sarah Constantin
+- Laura Deming
+- Alexey Guzey
+- xkcd
+- Vitalik Buterin
+- David Perell
+- Notes on Liberty
+- Stephen Malina
+- Language Log
+- Jake Seliger
+- NewScientist
+- Abandoned Footnotes
+- Ex Urbe

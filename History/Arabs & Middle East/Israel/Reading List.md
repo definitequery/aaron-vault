@@ -1,0 +1,3 @@
+_[Righteous Victims: A History of the Zionist-Arab Conflict: 1881-2001](http://amzn.to/2gudymt)_ by Benny Morris. This is an Israeli-historian based view of the history of the conflicts surrounding the Palestine region, and the Israeli conflict. It's great to balance this against the _Iron Cage_ book suggested below, to get a balanced view of both sides.
+
+_[The Iron Cage: The Story of the Palestinian Struggle for Statehood](http://amzn.to/2xyjqAT)_ by Rashid Khalidi. Written from the Palestinian point of view (mostly post-1948), this book is great to balance against the Benny Morris book above for a good overview of Palestinian-Israeli struggles throughout the history of Israel.
