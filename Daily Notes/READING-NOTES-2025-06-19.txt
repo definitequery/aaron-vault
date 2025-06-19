@@ -1,0 +1,73 @@
+---
+title: READING NOTES: June 19th, 2025
+author: Aaron Simpson
+date: 2025-06-19
+---
+
+Title: Immigration: The Most Important Issue
+Link: https://noahpinionblog.blogspot.com/2010/04/immigration-most-important-issue.html
+
+Noah Smith believes that America's future looks brighter due to our unique ability to take and assimilate the best and brightest from every country on Earth. However, he contends that there are two problems with America's immigration system:
+
+First, America's pipeline has made it harder for talented people to work here. International grad students come to America, get their degree, and then have to leave the country because of America's immigration system. In other words, we pay for foreigners to get a world-class education and then send them off to go apply those skills in other countries. Noah argues that we should increase H1-B visas, expand the green card quota, and give every single foreign grad student a green card upon completion of their studies.
+
+The second problem is illegal immigration. The nature of being an illegal immigrant impedes assimilation. Therefore, Noah calls for federal amnesty, like the one passed by Reagan in 1986.
+- Aaron: I agree with providing amnesty, but that amnesty must come with some sort of reform in the immigration system so that we don't incentivize more illegal immigration.
+
+**Good Arguments**:
+- America has a unique talent to assimilate people from around the world. Our competitive advantage is our national identity - or lack thereof - that allows us to take the best and the brightest from every country on Earth and make them ours. We should keep doing this and lean into this culturally and politically to stay ahead of every other country.
+- International students that come to the United States to study should face a rapidly accelerated immigration schedule to incentivize them to stay in the United States and contribute to our economy.
+- One of the reasons why it's bad to have illegal immigrants is that the fear of deportation prevents them from assimilating. It prevents them from sending their children to American schools, from applying to American companies, from learning English, from marrying Americans, etc.
+  - Aaron: I would say this isn't inherently true, but rather that the federal government should be aware of this and try to avoid making the types of enforcement decisions that would discourage people from assimilating due to these barriers.
+
+...
+
+Title: Yglesias on Utopia
+Link: https://noahpinionblog.blogspot.com/2010/04/yglesias-on-utopia.html
+
+Noah cites a Matthew Yglesias blogpost about the gift and the benefit of market capitalism. Money and markets can't answer questions of meaning, self-worth, friendship, love, and self-actualization. However, money helps a lot with achieving these things. Capitalism is essential to human progress not because it delivers these things, but because it answers the baser human material desires that allow us to care about these things in the first place.
+
+...
+
+Title: Playboy Interview: Steve Jobs
+Link: https://allaboutstevejobs.com/verbatim/interviews/playboy_1985
+
+**Key Points:**
+- Steve Jobs talks about the wonder of money and being seen as rich. Talks about going to school in the Sixties and the transition from idealism and philosophy towards a more practical, purposeful worldview. Steve Jobs and his generation has that idealism ingrained in them forever.
+- Compares the computer revolution to the petrochemical revolution of the 1800s. The petrochemical revolution gave us free energy and changed the texture of society. Computers give us free intellectual energy and will similarly change the fabric of society.
+- Explains how a computer works.
+- "In education, computers are the first thing to come along since books that will sit there and interact with you endlessly, without judgment. Socratic education isn’t available anymore, and computers have the potential to be a real breakthrough in the educational process when used in conjunction with enlightened teachers. We’re in most schools already."
+  - This is almost exactly the same argument used about artificial intelligence.
+- "The most compelling reason for most people to buy a computer for the home will be to link it into a nationwide communications network. We’re just in the beginning stages of what will be a truly remarkable breakthrough for most people—as remarkable as the telephone."
+  - Prediction of the World Wide Web and the Internet.
+- Explains the significance of the mouse and why it matters to people using computers.
+- On the age of people in the computing industry:
+Playboy: Why is the computer field dominated people so young? The average age of Apple employees is 29.
+
+Jobs: It’s often the same with any new, revolutionary thing. People get stuck as they get older. Our minds are sort of electrochemical computers. Your thoughts construct patterns like scaffolding in your mind. You are really etching chemical patterns. In most cases, people get stuck in those patterns, just like grooves in a record, and they never get out of them. It’s a rare person who etches grooves that are other than a specific way of looking at things, a specific way of questioning things. It’s rare that you see an artist in his 30s or 40s able to really contribute something amazing. Of course, there are some people who are innately curious, forever little kids in their awe of life, but they’re rare.
+- Injecting the liberal-arts spirit into a very serious realm of business.
+
+- On stagnation due to dominant market players:
+Jobs: Look at this example: Frito-Lay is a very interesting company. They call on more than half a million accounts a week. There’s a Frito-Lay rack in each store, and the chips are all there, and every store’s got the identical rack and the big ones have multiples. For Frito-Lay, the biggest problem is stale product—bad chips, so to speak. For Frito-Lay’s service, they’ve got, like, 10,000 guys who run around and take out the stale product and replace it with good product. They talk to the manager of that department and they make sure everything’s fine. Because of that service and support, they now have more than an 80 percent share of every segment of chips that they’re in. Nobody else can break into that. As long as they keep doing what they do well, nobody else can get 80 percent of the market share, because they can’t get the sales and support staff. They can’t get it because they can’t afford it. They can’t afford it because they don’t have 80 percent of the market share. It’s catch-22. Nobody will ever be able to break into their franchise.
+
+Frito-Lay doesn’t have to innovate very much. They just watch all the little chip companies come out with something new, study it for a year, and a year or two years later they come out with their own, service and support it to death, and they’ve got 80 percent of the market share of the new product a year later.
+
+- Modern computing companies in Silicon Valley, namely Google, Meta, and Amazon, operate by this strategy now.
+
+- His mother taught him to read before school.
+  - I want to do this with my child.
+- Covers his life story and the story of Apple and the business of computing.
+
+- Jobs: There’s an old Hindu saying that comes into my mind occasionally: “For the first 30 years of your life, you make your habits. For the last 30 years of your life, your habits make you.” As I’m going to be 30 in February, the thought has crossed my mind.
+
+- Giving away his wealth:
+
+Jobs: That’s a part of my life that I like to keep private. When I have some time, I’m going to start a public foundation. I do some things privately now.
+
+Playboy: You could spend all of your time disbursing your money.
+
+Jobs: Oh, you have to. I’m convinced that to give away a dollar effectively is harder than to make a dollar.
+
+Playboy: Could that be an excuse to put off doing something?
+
+- 
