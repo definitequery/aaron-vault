@@ -6,7 +6,7 @@ A reading list of books about various aspects of Singapore. Recommendations prim
 [One Man's View of the World](https://singapore.kinokuniya.com/bw/9789814642910) (2017) - Lee Kuan Yew
 [Dare to Change](https://search.worldcat.org/title/31882589) - Chee Soon Juan
 [Never on Bended Knees](https://search.worldcat.org/title/1088668568) - Chee Soon Juan
- [The Hatchet Man of Singapore](https://www.amazon.sg/Hatchet-Man-Singapore-J-Jeyaretnam/dp/B0019YJ6DI) - JBJ
+[The Hatchet Man of Singapore](https://www.amazon.sg/Hatchet-Man-Singapore-J-Jeyaretnam/dp/B0019YJ6DI) - JBJ
 [Let the People Have Him: Chiam See Tong: the Early Years](https://shop.epigrambooks.sg/products/let-the-people-have-him) _-_ Loke Hoe Yeong
 [Beyond the Blue Gate: Recollections of a Political Prisoner](https://www.ethosbooks.com.sg/products/beyond-the-blue-gate-recollections-of-a-political-prisoner) - Teo Soh Lung
 [1987: Singapore's Marxist Conspiracy 30 Years On](https://www.ethosbooks.com.sg/products/1987-singapore-s-marxist-conspiracy-30-years-on) - ed. Chng Suan Tze, Low Yit Leng & Teo Soh Lung

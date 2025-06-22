@@ -4,7 +4,7 @@
 - 6.002 Circuits and Electronics (Spring 2007)  
 - 6.003 Signals and Systems (Fall 2003)  
 - 6.004 Computation Structures (Fall 2002)  
-- 6.006 Introduction to Algorithms (Spring 2008)  
+- 6.006 Introduction to Algorithms (Spring 2008)
 - 6.011 Introduction to Communication, Control, and Signal Processing (Spring 2004)  
 - 6.012 Microelectronic Devices and Circuits (Fall 2005)  
 - 6.012 Microelectronic Devices and Circuits (Fall 2003)  

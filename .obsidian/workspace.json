@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a736ea9a32f7ad85",
+        "id": "c3c92199764c8e83",
         "type": "tabs",
         "children": [
           {
-            "id": "ee6ef84e07e2723b",
+            "id": "bb3b6362884e32dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Computer Science & Mathematics/ChatGPT Computer Science Curriculum.md",
+                "file": "Computer Science & Mathematics/MIT OpenCourseware Sequence on EE and CS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ChatGPT Computer Science Curriculum"
+              "title": "MIT OpenCourseware Sequence on EE and CS"
             }
           }
         ]
@@ -168,8 +168,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c5787f291b76be00",
+  "active": "bb3b6362884e32dd",
   "lastOpenFiles": [
-    "Physics/PDF/physics-for-scientists-7th-ed.pdf"
+    "Daily Notes/2025-06-15.md",
+    "Government, Politics & International Relations/PDF/(Law 101) Jay M. Feinman - Everything You Need To Know About American Law - 5th Edition-Oxford University Press (2018).pdf",
+    "Logic & Philosophy/Questions.md",
+    "Miscellaneous/Classics Reading.md",
+    "Business/Reading List.md",
+    "The Silicon Valley Canon.md",
+    "Blogroll.md",
+    "Gen-Z & Billionaires.md",
+    "gpt-search-record.md",
+    "Scratchpad.md",
+    "TODO.md",
+    "gpt-result-cown.md",
+    "Sociology/Reading List.md",
+    "Singapore/Reading List.md",
+    "Religion/Catholic Church.md",
+    "Reading Notes/How I Use Claude by Avital Balwit.md",
+    "Reading Notes/Advice on Writing Ideas by Niko McCarty.md",
+    "Psychology/Mental Models.md",
+    "Psychology/Resources.md",
+    "Psychology/Reading List.md",
+    "Miscellaneous/Miscellaenous Reading and Favorites.md",
+    "Miscellaneous/Philosophy.md",
+    "Miscellaneous/Useful Sites.md",
+    "Miscellaneous/Counter-Whig History.md",
+    "History/European History/Congress of Vienna.md",
+    "History/European History/Reading List.md",
+    "History/General History/Ancient Greece/Ancient Greece.md",
+    "Life, Advice, Self Improvement & Inspiration/PDF/Cal Newport - Deep Work_ Rules for focused success in a distracted world-Grand Central (2016).pdf",
+    "Government, Politics & International Relations/PDF/1149275.pdf",
+    "Government, Politics & International Relations/PDF/4152944.pdf",
+    "Fiction/Worldbuilding Projects/dKWA2Ud.png",
+    "Economics/PDF/Steven E. Landsburg - Armchair Economist_ Economics & Everyday Life (1995).pdf",
+    "Economics/PDF/Programming Ruby 3.3 - Noel Rappin.pdf",
+    "Computer Science & Mathematics/Computer Vision Cheat Sheet.png",
+    "Computer Science & Mathematics/PDF/The Elements of Computing Systems.pdf",
+    "Computer Science & Mathematics/PDF/The Algorithm Design Manual by Steven S. Skiena.pdf",
+    "Computer Science & Mathematics/PDF/Michael T. Goodrich, Roberto Tamassia, Michael H. Goldwasser-Data Structures and Algorithms in Python-Wiley (2013).pdf",
+    "Computer Science & Mathematics/PDF/JavaScript-The-Definitive-Guide-6th-Edition.pdf"
   ]
 }

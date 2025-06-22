@@ -1,4 +1,3 @@
-
 The user wants a list of nuanced, rigorous thinkers in the fox-style framework, avoiding proselytism and intellectual dishonesty—those who embrace analytic uncertainty. I’m considering offering a list across diverse domains such as politics, economics, science, and forecasting. Some names could be Ethan Mollick, Holden Karnofsky, Gwern Branwen, Nate Silver (maybe controversial though?), Andrew Gelman, Ben Casselman. I’ll aim for a balanced, up-to-date collection that reflects open-minded, multi-domain evidence-based approaches in line with their request.
 
 Here are some potential thinkers that match the "fox" style:
