@@ -1,6 +1,6 @@
 # Reading Notes: 23 June 2025
 ## Do We Need Another Green Revolution?
-Link: (https://www.newyorker.com/magazine/2025/06/30/do-we-need-another-green-revolution)[https://www.newyorker.com/magazine/2025/06/30/do-we-need-another-green-revolution] ([a](https://archive.ph/e4nXM#selection-583.0-594.0))
+Link: [https://www.newyorker.com/magazine/2025/06/30/do-we-need-another-green-revolution](https://www.newyorker.com/magazine/2025/06/30/do-we-need-another-green-revolution) ([a](https://archive.ph/e4nXM#selection-583.0-594.0))
 
 **Artificial Intelligence Summary**:
 The Green Revolution, spearheaded by Norman Borlaug, dramatically increased wheat yields in Mexico and elsewhere through the development of high-yielding, rust-resistant
