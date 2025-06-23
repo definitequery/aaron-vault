@@ -2,7 +2,7 @@
 ## Do We Need Another Green Revolution?
 Link: [https://www.newyorker.com/magazine/2025/06/30/do-we-need-another-green-revolution](https://www.newyorker.com/magazine/2025/06/30/do-we-need-another-green-revolution) ([a](https://archive.ph/e4nXM))
 
-**Artificial Intelligence Summary**:
+**Artificial Intelligence Summary**:  
 The Green Revolution, spearheaded by Norman Borlaug, dramatically increased wheat yields in Mexico and elsewhere through the development of high-yielding, rust-resistant
 dwarf wheat. However, Borlaug himself cautioned that this was a temporary solution to hunger, a prediction proven prescient by today's population growth.
 
@@ -19,7 +19,7 @@ The legacy of the Green Revolution is complex. While it significantly increased 
 contamination, disproportionately impacting poorer farmers. The need for a second Green Revolution is clear, but the path forward requires careful consideration of both its
 potential benefits and its potential harms.
 
-**My Thoughts**:
+**My Thoughts**:  
 - Very interesting article. Kind of depressing in some ways. A lot of interesting topics I'd like to read about more:
   - Genetics and biology of wheat
   - Science of agriculture
