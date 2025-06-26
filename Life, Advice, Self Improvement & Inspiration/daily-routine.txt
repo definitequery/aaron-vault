@@ -1,0 +1,74 @@
+# Week Day
+
+Alarm: 6:30am
+Actually Awake: 7:00am
+Micro-Rule: No phone for first 90 minutes (8:30am)
+Micro-Rule: Replace phone with Kindle or book
+Micro-Rule: Do not check news/social media before first deep work block
+
+Commute: SPQR during drive
+Pre-Work Hours: 8:30am
+Micro-Rule: LeetCode/NeetCode, Dual N-Back
+
+Standup: 9:15am - 9:45am
+First Work Block: 9:45am - 11:15am
+Lunch:
+- NetNewsWire/Matter
+- Read biography (Leonardo da Vinci, Lincoln, Turing, Obama, Washington, Mao, Lenin, Jobs, Gates, Alexander Hamilton, Einstein, Franklin)
+- Midday walk
+Second Work Block: 12:15pm - 1:45pm
+Cooldown: 1:45pm - 4:30pm
+- Review stories and progress on OKR.
+- Emails
+- Friday Weekly Review
+- Write standup for next morning
+- Tech debt/unit testing
+
+Evening: 4:30pm - 10:30pm
+Exercise: 4:30pm - 5:00pm to 5:30pm
+Commute: Calm music or podcast
+Shower & Dinner with Deanna: 5:30pm - 6:30pm
+Dishes: 6:30pm - 7:00pm
+Hobby Time: 7:00pm - 9:30pm
+Micro-Rule: No screens until meaningful thing is accomplished. Read computer science, research, work on side project.
+- Research something about computer science or mathematics
+  - More LeetCode/NeetCode practice
+  - Project Euler
+  - Learning C programming language
+  - Build side project
+  - Contribute to open-source
+  - Read paper
+  - Read computer science/mathematics book
+- Writing
+  - Story
+  - Essay
+  - Worldbuilding
+  - Blogpost
+- Progress learning new skill.
+  - Music
+  - Art
+  - Speaking
+  - Conlang
+  - Side project research
+
+Pre-Bedtime: 9:30pm - 11:00pm
+- Journaling
+- Meditation
+- Time to be bored
+- Read
+
+# Weekend
+
+Actually Awake: 7:00am - 8:30am
+Chores: 8:30am - 1:30pm
+Hobby Time: 1:30pm - 11:00pm
+- Free research
+- Reading
+- Podcast
+- Progress learning new skill
+- Side project
+- Writing/Worldbuilding
+- Speech practice
+- Outdoor skills
+- Financial review
+- Meditation
