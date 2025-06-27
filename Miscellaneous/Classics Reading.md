@@ -1,6 +1,6 @@
 (I have gone light on the classics here, since I don’t have anything especially unique to contribute. If you want more good ones, the late [Larry Auster had a great annotated reading list of the classics](http://www.amnation.com/vfr/archives/006256.html))
 
-[The Decline and Fall of the Roman Empire by Edward Gibbon*](http://amzn.to/1niwpRT)
+[The Decline and Fall of the Roman Empire by Edward Gibbon*](https://www.amazon.com/History-Decline-Empire-Penguin-Classics/dp/0140437649)
 We who live under the umbrella of the American hegemony, can benefit from reading of the decline and fall of one the great past empires.
 
 [The Peloponessian War by Thucydides](http://amzn.to/1QsQGMX) One of the first real histories ever written. Written by a general who lived through the events, it covers the war between Athens and Sparta in the 400s BC.
